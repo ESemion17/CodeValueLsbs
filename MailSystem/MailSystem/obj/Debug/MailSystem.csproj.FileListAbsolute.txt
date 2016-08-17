@@ -1,0 +1,6 @@
+c:\users\semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\Users\Semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\bin\Debug\MailSystem.exe
+C:\Users\Semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\bin\Debug\MailSystem.pdb
+C:\Users\Semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\obj\Debug\MailSystem.csprojResolveAssemblyReference.cache
+C:\Users\Semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\Users\Semion\documents\visual studio 2015\Projects\MailSystem\MailSystem\obj\Debug\MailSystem.pdb

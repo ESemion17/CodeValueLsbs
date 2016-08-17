@@ -1,0 +1,8 @@
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\bin\Debug\QuadTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\bin\Debug\QuadTests.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\bin\Debug\Quad.exe
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\bin\Debug\Quad.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\obj\Debug\QuadTests.csprojResolveAssemblyReference.cache
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\obj\Debug\QuadTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Quad\QuadTests\obj\Debug\QuadTests.pdb

@@ -1,0 +1,8 @@
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb

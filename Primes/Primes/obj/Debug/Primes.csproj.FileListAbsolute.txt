@@ -1,0 +1,5 @@
+c:\users\semion\documents\visual studio 2015\Projects\Primes\Primes\bin\Debug\Primes.exe.config
+c:\users\semion\documents\visual studio 2015\Projects\Primes\Primes\bin\Debug\Primes.exe
+c:\users\semion\documents\visual studio 2015\Projects\Primes\Primes\bin\Debug\Primes.pdb
+c:\users\semion\documents\visual studio 2015\Projects\Primes\Primes\obj\Debug\Primes.exe
+c:\users\semion\documents\visual studio 2015\Projects\Primes\Primes\obj\Debug\Primes.pdb

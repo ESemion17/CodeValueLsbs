@@ -1,0 +1,8 @@
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\bin\Debug\BinaryDisplayTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\bin\Debug\BinaryDisplayTests.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\bin\Debug\BinaryDisplay.exe
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\bin\Debug\BinaryDisplay.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\obj\Debug\BinaryDisplayTests.csprojResolveAssemblyReference.cache
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\obj\Debug\BinaryDisplayTests.dll
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\BinaryDisplay\BinaryDisplayTests\obj\Debug\BinaryDisplayTests.pdb

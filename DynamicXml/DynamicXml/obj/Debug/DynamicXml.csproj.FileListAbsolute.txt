@@ -1,0 +1,6 @@
+c:\users\semion\documents\visual studio 2015\Projects\DynamicXml\DynamicXml\bin\Debug\DynamicXml.exe.config
+c:\users\semion\documents\visual studio 2015\Projects\DynamicXml\DynamicXml\obj\Debug\DynamicXml.csprojResolveAssemblyReference.cache
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\DynamicXml\DynamicXml\bin\Debug\DynamicXml.exe
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\DynamicXml\DynamicXml\bin\Debug\DynamicXml.pdb
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\DynamicXml\DynamicXml\obj\Debug\DynamicXml.exe
+C:\Users\Semion\Documents\Visual Studio 2015\Projects\DynamicXml\DynamicXml\obj\Debug\DynamicXml.pdb

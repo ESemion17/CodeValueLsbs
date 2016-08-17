@@ -1,0 +1,8 @@
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\bin\Debug\Main.exe.config
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\bin\Debug\Main.exe
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\bin\Debug\Main.pdb
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\obj\Debug\Main.exe
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\obj\Debug\Main.pdb
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\bin\Debug\AccountsLib.dll
+c:\users\semion\documents\visual studio 2015\Projects\Accounts\Main\bin\Debug\AccountsLib.pdb
