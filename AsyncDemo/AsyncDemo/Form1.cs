@@ -12,6 +12,7 @@ namespace AsyncDemo
 {
     public partial class Form1 : Form
     {
+        // bad name !!
         private delegate IEnumerable<int> _delegate(int frist,int last);
         public Form1()
         {
@@ -39,10 +40,11 @@ namespace AsyncDemo
                     return false;
             return true;
         }
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
             _delegate del = CalcPrimes;
+            // Perfect ... but next time use TryParse and validate your input!
             del.BeginInvoke(int.Parse(textBox1.Text),int.Parse(textBox2.Text),(asyncRes) =>
             {
                 var answer = del.EndInvoke(asyncRes).ToArray<int>();
