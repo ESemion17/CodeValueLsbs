@@ -25,8 +25,14 @@ namespace PrimesCalculator
 
         private void calcButton_Click(object sender, EventArgs e)
         {
-            var t1 = new Thread(()=>CalcPrimes(int.Parse(textBox1.Text), int.Parse(textBox2.Text), _token));
-            t1.Start();
+            int first, last;
+            if (int.TryParse(textBox1.Text, out first) && int.TryParse(textBox2.Text, out last)) 
+            {
+                var t1 = new Thread(() => CalcPrimes(int.Parse(textBox1.Text), int.Parse(textBox2.Text), _token));
+                t1.Start();
+            }
+            else
+                MessageBox.Show("Wrong input, it's should be only numbers");
         }
 
         private void CalcPrimes(int first, int last, CancellationToken token)
