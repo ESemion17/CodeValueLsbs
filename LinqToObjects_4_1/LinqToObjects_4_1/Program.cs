@@ -12,6 +12,7 @@ namespace LinqToObjects_4_1
     {
         static void Main(string[] args)
         {
+            // Why all your methods doesn't start with big letter ????
             exexercise1a();
             var processes = Process.GetProcesses().Where(p => p.Threads.Count < 5).OrderBy(p => p.Id);
             exexercise1b(processes);
@@ -24,6 +25,7 @@ namespace LinqToObjects_4_1
 
         private static void exexercise1a()
         {
+            //perfect
             Console.WriteLine("All public interface in 'mscorlib':");
             var types = Assembly.Load("mscorlib").GetTypes().Where(t => t.IsInterface).Where(t => t.IsPublic)
                 .OrderBy(t => t.Name).Select(t => new { Name = t.Name, NumberOfMethods = t.GetMethods().Length });
@@ -33,10 +35,14 @@ namespace LinqToObjects_4_1
         private static void exexercise1b(IOrderedEnumerable<Process> process)
         {
             Console.WriteLine("All processes that running whose thread count is less than 5 ");
+            // you should filter processes, 
+            //should be... process.where(... GetStartTimeFromProcess...).select(....)
+            //use: From .... in ...... syntex next time
             var processes = process.Select(p => new { Name = p.ProcessName, Id = p.Id, StartTime = GetStartTimeFromProcess(p) });
             foreach (var item in processes)
                 Console.WriteLine($"Id: {item.Id,-6} Process Name: {item.Name,-30} Start Date: {item.StartTime.ToString()}");
         }
+        //Should be boolean method
         private static string GetStartTimeFromProcess(Process process)
         {
             try
